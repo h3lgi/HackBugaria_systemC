@@ -1,14 +1,15 @@
-set tabstop=4
+"set tabstop=4
 set number
 set shiftwidth=4
-set expandtab
-
-set cursorline
+"set expandtab
+set autoindent
+set cindent
+"set cursorline
 set backspace=indent,eol,start
 
 set colorcolumn=100
 set nowrap
-set smarttab
+"set smarttab
 
 " set background=dark
 set wildmenu
